@@ -29,16 +29,20 @@ The signals are combined into a score out of 5:
 ## 🖼️ Screenshots
 
 ### Sentiment classification
-![Sentiment results](<img width="1127" height="601" alt="image" src="https://github.com/user-attachments/assets/6079b77c-8a76-417d-8db9-b2f77990e2a1" />)
+![Sentiment results](<img width="1127" height="601" alt="image" src="https://github.com/user-attachments/assets/6079b77c-8a76-417d-8db9-b2f77990e2a1" />
+)
 
 ### Text classification results
-![Classification report](<img width="983" height="618" alt="image" src="https://github.com/user-attachments/assets/fd0c4d30-a0b8-42ff-a6c6-2b1abe82271b" />)
+![Classification report](<img width="983" height="618" alt="image" src="https://github.com/user-attachments/assets/fd0c4d30-a0b8-42ff-a6c6-2b1abe82271b" />
+)
 
 ### Semantic stigma detection
-![Semantic detection](<img width="672" height="737" alt="image" src="https://github.com/user-attachments/assets/6572f7f8-28ad-4fdf-8dce-667ca85e2c9b" />)
+![Semantic detection](<img width="672" height="737" alt="image" src="https://github.com/user-attachments/assets/6572f7f8-28ad-4fdf-8dce-667ca85e2c9b" />
+)
 
 ### Named Entity Recognition and anonymisation
-![NER and anonymisation](<img width="792" height="547" alt="image" src="https://github.com/user-attachments/assets/649fae01-0600-4949-a3ac-ffff9a0e90dd" />)
+![NER and anonymisation](<img width="792" height="547" alt="image" src="https://github.com/user-attachments/assets/649fae01-0600-4949-a3ac-ffff9a0e90dd" />
+)
 
 ### Full pipeline: Stigma Risk Score
 ![Combined pipeline](<img width="1592" height="698" alt="image" src="https://github.com/user-attachments/assets/cf97de0d-d638-42ec-8d72-46cad30b3efe" />
